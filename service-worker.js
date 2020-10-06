@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/databot-coming-soon/precache-manifest.858c28fd49aa014616d6e1faf30329f7.js"
+  "/databot-coming-soon/precache-manifest.95f145a81aa386fa8e12e1d9f537d5e1.js"
 );
 
 self.addEventListener('message', (event) => {

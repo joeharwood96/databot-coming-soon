@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e10e3706fe06e53bb78a24cce9dd1cd",
+    "revision": "3b0ed7af894124a760c3c2b977bfe074",
     "url": "/databot-coming-soon/index.html"
   },
   {
-    "revision": "a83a19b941e963f7a48c",
-    "url": "/databot-coming-soon/static/css/main.5f361e03.chunk.css"
+    "revision": "b5461d3b0d333fcd74b1",
+    "url": "/databot-coming-soon/static/css/main.5ee7196d.chunk.css"
   },
   {
     "revision": "133a52512a4e95e69597",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/databot-coming-soon/static/js/2.277f06c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a83a19b941e963f7a48c",
-    "url": "/databot-coming-soon/static/js/main.fdb95cef.chunk.js"
+    "revision": "b5461d3b0d333fcd74b1",
+    "url": "/databot-coming-soon/static/js/main.723ea18b.chunk.js"
   },
   {
     "revision": "66a8bae3bdba761cdeb9",
     "url": "/databot-coming-soon/static/js/runtime-main.c38dfe18.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/databot-coming-soon/static/media/logo.5d5d9eef.svg"
   }
 ]);
